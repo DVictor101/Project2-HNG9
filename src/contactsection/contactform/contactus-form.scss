@@ -68,6 +68,15 @@
   .contactformdiv {
     width: 85%;
   }
+  .firstformdiv {
+    display: flex;
+    flex-direction: column;
+  }
+  .firstnameinput {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
 }
 @media (max-width: 799px) {
   .contactformdiv {
