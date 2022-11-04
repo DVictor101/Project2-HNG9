@@ -7,9 +7,9 @@ import Footer from "./footer";
 const App = () => {
   return (
     <div className="pages">
+      <Homepage />
       <Routes>
-        <Route path="/Project2-HNG9" element={<Homepage />} />
-        <Route path="/Project2-HNG9/contact" element={<ContactPage />} />
+        <Route path="/contact" element={<ContactPage />} />
       </Routes>
       <Footer />
     </div>
