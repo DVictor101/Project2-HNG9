@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://DVictor101.github.io/Project2-HNG9",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
