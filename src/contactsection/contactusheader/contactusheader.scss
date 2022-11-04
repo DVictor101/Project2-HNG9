@@ -1,0 +1,19 @@
+.contacthead--p {
+  font-weight: 500;
+  font-family: sans-serif;
+  padding-bottom: 30px;
+}
+.contacthead {
+  width: 60%;
+}
+
+@media (max-width: 480px) {
+  .contacthead {
+    width: 85%;
+  }
+}
+@media (max-width: 799px) {
+  .contacthead {
+    width: 85%;
+  }
+}
